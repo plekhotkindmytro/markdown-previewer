@@ -1,0 +1,29 @@
+html,
+body {
+    width: 100%;
+    height: 100%;
+}
+
+.container-fluid,
+.row {
+    height: 100%;
+}
+
+.container-fluid {
+    padding-top: 1rem;
+    padding-bottom: 1rem;
+}
+
+#input {
+    width: 100%;
+    height: 100%;
+    /* background-color: #efefef;*/
+    border-radius: 5px;
+    border-color: #ccc;
+}
+
+#output {
+    width: 100%;
+    height: 100%;
+    border-color: white;
+}
